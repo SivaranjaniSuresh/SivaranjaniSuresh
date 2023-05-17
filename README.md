@@ -18,6 +18,11 @@
 
 I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston.
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
+![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSuresh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjaniSuresh&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About Me
 
 👩‍ Hello! I'm Sivaranjani, an enthusiastic data professional at the intersection of Data Engineering and Data Science. Here's a glimpse into what defines me:
@@ -32,16 +37,19 @@ I am a Master of Science in Information Systems student <img src="https://media.
 - 🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.
 - ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
-### 📞 Contact Me
+### :scroll: Certifications
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
+- Microsoft Certified: Azure Fundamentals
+  - [Credential Link](https://www.credly.com/badges/45de5ec2-dfa3-458b-826e-a0d05664431d?source=linked_in_profile)
 
-Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
+- Microsoft Certified: Azure Data Engineer Associate
+  - [Credential Link](https://www.credly.com/badges/dcbe3106-04da-486f-bba3-1c8ee18768b5)
 
-You can also reach me at:
-📞 Phone: +1 617 943 9070
-📧 Email: s.si@northeastern.edu
+- Microsoft Certified: Azure AI Fundamentals
+  - [Credential Link](https://www.credly.com/badges/53f40a44-8f5a-42a2-8948-d0418c3445c1/public_url)
 
+- Data Engineering with Databricks
+  - Credential ID: E-Q07O20
 
 ### 🎓 Education
 - Northeastern University (GPA: 3.765)
@@ -107,10 +115,14 @@ Unsplash API: Used to fetch images of specific locations mentioned in the YouTub
 [![Demo Video](https://img.youtube.com/vi/mkkRvp2zlEo/0.jpg)](https://youtu.be/mkkRvp2zlEo)
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
+### 📞 Contact Me
 
-![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSuresh&show_icons=true&theme=radical)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjaniSuresh&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
+
+You can also reach me at:
+📞 Phone: +1 617 943 9070
+📧 Email: s.si@northeastern.edu
+
 
