@@ -23,6 +23,9 @@
 
 ### :woman_technologist: About Me :
 
+I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston.
+
+
 <!--
 **SivaranjaniSuresh/SivaranjaniSuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
