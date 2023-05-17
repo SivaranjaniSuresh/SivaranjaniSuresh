@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSuresh&show_icons=true&theme=radical)
