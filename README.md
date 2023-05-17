@@ -34,7 +34,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 ### Contact Me
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
 
 Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
 
@@ -70,20 +70,11 @@ Feel free to connect with me on LinkedIn, and let's explore the fascinating worl
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI"/>
 </p>
-<!--
-**SivaranjaniSuresh/SivaranjaniSuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSuresh&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjaniSuresh&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
+
