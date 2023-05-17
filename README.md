@@ -38,6 +38,10 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
 
+You can also reach me at:
+📞 Phone: +1 617 943 9070
+📧 Email: s.si@northeastern.edu
+
 
 ### 🎓 Education
 - Northeastern University (GPA: 3.765)
