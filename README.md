@@ -20,7 +20,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 ### About Me
 
-👩‍💻 Hello! I'm Sivaranjani, an enthusiastic data professional at the intersection of Data Engineering and Data Science. Here's a glimpse into what defines me:
+👩‍ Hello! I'm Sivaranjani, an enthusiastic data professional at the intersection of Data Engineering and Data Science. Here's a glimpse into what defines me:
 
 - 🔧 As a Data Engineer, I design and build robust data pipelines, ensuring efficient data ingestion, storage, and processing.
 - 📊 On the Data Science side, I love exploring complex datasets, deriving meaningful insights, and developing predictive models.
@@ -32,14 +32,14 @@ I am a Master of Science in Information Systems student <img src="https://media.
 - 🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.
 - ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
-### Contact Me
+### 📞 Contact Me
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
 
 Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
 
 
-### Education
+### 🎓 Education
 - Northeastern University (GPA: 3.765)
   - Boston, MA
   - Master of Science in Information Systems
@@ -51,7 +51,7 @@ Feel free to connect with me on LinkedIn, and let's explore the fascinating worl
   - B.E. in Computer Science and Engineering (First Class with Distinction)
   - Aug 2018 – June 2022
 
-### Languages and Tools
+### 💻 Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
