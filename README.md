@@ -25,6 +25,20 @@
 
 I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston.
 
+### Contact Me
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
+
+### Education
+- Northeastern University (GPA: 3.7)
+  - Boston, MA
+  - Master of Science in Information Systems
+  - Sep 2022 - Expected May 2024
+  - Courses: Big Data Architecture and Intelligence Analytics, Application Engineering Development, Data Science Engineering, Database Management and Database Design
+
+- Anna University (CGPA - 9.03)
+  - Chennai, India
+  - B.E. in Computer Science and Engineering (First Class with Distinction)
+  - Aug 2018 – June 2022
 
 <!--
 **SivaranjaniSuresh/SivaranjaniSuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
