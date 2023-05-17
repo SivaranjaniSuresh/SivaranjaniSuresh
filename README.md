@@ -90,8 +90,11 @@ I am a Master of Science in Information Systems student <img src="https://media.
 Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
 
 :movie_camera: Demo Video
-
-[![Demo Video](https://img.youtube.com/vi/DnmAYNL0kcI/0.jpg)](https://youtu.be/DnmAYNL0kcI)
+<p align="center">
+  <a href="https://youtu.be/DnmAYNL0kcI">
+    <img src="https://img.youtube.com/vi/DnmAYNL0kcI/0.jpg" alt="Demo Video">
+  </a>
+</p>
 
 
 2. [LocalLore](https://github.com/BigDataIA-Spring2023-Team-04/BigDataIA-Assignment-05): This project aims to provide a comprehensive one-stop application for travellers, offering various features to help plan, organize, and manage trips efficiently. Some of the key pages and features include:
@@ -111,8 +114,12 @@ Google Cloud Text-to-Speech API: Utilized for synthesizing speech from the trans
 Unsplash API: Used to fetch images of specific locations mentioned in the YouTube travel vlogs.
 
 :movie_camera: Demo Video
+<p align="center">
+  <a href="https://youtu.be/mkkRvp2zlEo">
+    <img src="https://img.youtube.com/vi/mkkRvp2zlEo/0.jpg" alt="Demo Video">
+  </a>
+</p>
 
-[![Demo Video](https://img.youtube.com/vi/mkkRvp2zlEo/0.jpg)](https://youtu.be/mkkRvp2zlEo)
 
 
 ### 📞 Contact Me
