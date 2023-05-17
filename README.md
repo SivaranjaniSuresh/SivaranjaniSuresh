@@ -2,13 +2,26 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<center>
+<div class="container">
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/ssivaranjani/)">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/ssivaranjani/)" class="centered-link">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-</center>
+</div>
+
+.container {
+  position: relative;
+  height: 100vh;
+}
+
+.centered-link {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 
 
 ### Hi there 👋
