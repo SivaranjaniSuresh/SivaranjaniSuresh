@@ -21,15 +21,32 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: Intro:
 
 I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston.
 
+### About Me
+
+👩‍💻 Hello! I'm Sivaranjani, an enthusiastic data professional at the intersection of Data Engineering and Data Science. Here's a glimpse into what defines me:
+
+- 🔧 As a Data Engineer, I design and build robust data pipelines, ensuring efficient data ingestion, storage, and processing.
+- 📊 On the Data Science side, I love exploring complex datasets, deriving meaningful insights, and developing predictive models.
+- 🌐 Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and data-driven decision making.
+- 🚀 With a passion for innovation, I constantly seek ways to optimize processes, enhance data quality, and drive actionable results.
+- 🤝 Collaborating with cross-functional teams, I leverage my technical expertise to deliver end-to-end data solutions.
+- 📈 Data visualization is my creative outlet, where I transform raw data into compelling visual narratives that empower stakeholders.
+- 🌱 Lifelong learning is my mantra, as I stay up-to-date with the latest advancements in data technologies and industry best practice  including building projects with LLMs.
+- ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
+
 ### Contact Me
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ssivaranjani/)
+
+Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
+
 
 ### Education
-- Northeastern University (GPA: 3.7)
+- Northeastern University (GPA: 3.765)
   - Boston, MA
   - Master of Science in Information Systems
   - Sep 2022 - Expected May 2024
