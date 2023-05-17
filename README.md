@@ -77,11 +77,35 @@ You can also reach me at:
 
 ### :rocket: Notable Data Engineering Projects
 
-Here is one of my notable data engineering projects:
-
-- [AIssue Flow](https://github.com/BigDataIA-Spring2023-Team-04/Final-Project-Playground): This project focuses on helping software developers and teams manage their projects on GitHub more effectively. It utilizes the GitHub API for scraping issue-related data, stores it in a database, and applies advanced NLP and vector similarity algorithms for improved issue search and summarization. The goal is to facilitate faster issue resolution and enhance overall project management.
+1. [AIssue Flow](https://github.com/BigDataIA-Spring2023-Team-04/Final-Project-Playground): This project focuses on helping software developers and teams manage their projects on GitHub more effectively. It utilizes the GitHub API for scraping issue-related data, stores it in a database, and applies advanced NLP and vector similarity algorithms for improved issue search and summarization. The goal is to facilitate faster issue resolution and enhance overall project management.
 
 Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
+
+:movie_camera: Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/DnmAYNL0kcI/0.jpg)](https://youtu.be/DnmAYNL0kcI)
+
+
+2. [LocalLore](https://github.com/BigDataIA-Spring2023-Team-04/BigDataIA-Assignment-05): This project aims to provide a comprehensive one-stop application for travellers, offering various features to help plan, organize, and manage trips efficiently. Some of the key pages and features include:
+
+Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
+
+APIs Used
+
+Whisper API: Used for audio transcription of YouTube travel vlogs to generate context for itinerary generation.
+
+OpenAI API: Utilized for language translation, text generation, and emergency contacts generation.
+
+Google Cloud Translation API: Used for translating user-provided text into the target language.
+
+Google Cloud Text-to-Speech API: Utilized for synthesizing speech from the translated text.
+
+Unsplash API: Used to fetch images of specific locations mentioned in the YouTube travel vlogs.
+
+:movie_camera: Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/mkkRvp2zlEo/0.jpg)](https://youtu.be/mkkRvp2zlEo)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
