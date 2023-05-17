@@ -13,12 +13,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SivaranjaniSuresj&label=Profile+Views&color=blueviolet)
 
-
-
-
-
 ### Hi there 👋
-
 ---
 
 ### :woman_technologist: Intro
@@ -36,6 +31,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 - 🤝 Collaborating with cross-functional teams, I leverage my technical expertise to deliver end-to-end data solutions.
 - 📈 Data visualization is my creative outlet, where I transform raw data into compelling visual narratives that empower stakeholders.
 - 🌱 Lifelong learning is my mantra, as I stay up-to-date with the latest advancements in data technologies and industry best practice  including building projects with LLMs.
+- 🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.
 - ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
 ### Contact Me
