@@ -20,7 +20,9 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
+
 ![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSuresh&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjaniSuresh&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
