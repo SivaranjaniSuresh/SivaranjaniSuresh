@@ -87,7 +87,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 ### :rocket: Notable Data Engineering Projects
 
-1. [AIssue Flow](https://github.com/BigDataIA-Spring2023-Team-04/Final-Project-Playground): This project focuses on helping software developers and teams manage their projects on GitHub more effectively. It utilizes the GitHub API for scraping issue-related data, stores it in a database, and applies advanced NLP and vector similarity algorithms for improved issue search and summarization. The goal is to facilitate faster issue resolution and enhance overall project management.
+1. [AIssue Flow]([https://github.com/BigDataIA-Spring2023-Team-04/Final-Project-Playground](https://github.com/SivaranjaniSuresh/Final-Project-Playground)): This project focuses on helping companies manage their projects on GitHub more effectively. It utilizes the GitHub API for scraping issue-related data, stores it in a database, and applies advanced NLP and vector similarity algorithms for improved issue search and summarization. The goal is to facilitate faster issue resolution and enhance overall project management.
 
 Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
 
