@@ -54,11 +54,11 @@ I am a Master of Science in Information Systems student <img src="https://media.
   - Credential ID: E-Q07O20
 
 ### 🎓 Education
-- Northeastern University (GPA: 3.765)
+- Northeastern University (GPA: 3.81)
   - Boston, MA
   - Master of Science in Information Systems
   - Sep 2022 - Expected May 2024
-  - Courses: Big Data Architecture and Intelligence Analytics, Application Engineering Development, Data Science Engineering, Database Management and Database Design
+  - Courses: Big Data Architecture and Intelligence Analytics, Application Engineering Development, Data Science Engineering, Database Management and Database Design, Adavnces in Data Science and Architecture. High Parallel               Machine Learning 
 
 - Anna University (CGPA - 9.03)
   - Chennai, India
