@@ -18,7 +18,7 @@
 
 I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston. I am currently doing my co-op at Universal Music Group as a Data Engineer. I use Python, SQL(Big Query), Google Cloud Platform, Airflow, Kubernetes, Docker, Confluence and Jira on a day-to-day basis at work. 
 
-### :fire: My Stats :
+### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Sivaranjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaranjaniSuresh&show_icons=true&theme=radical)
