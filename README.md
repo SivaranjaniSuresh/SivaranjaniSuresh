@@ -20,7 +20,7 @@
 I’m Sivaranjani, an AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Dell and a passionate data professional with expertise in both AI and Data Science. I have a strong foundation in designing and building data pipelines, exploring and analyzing complex datasets, and developing AI-driven solutions.  
 
 **Currently**: AI Engineer 2 at Dell
-
+**Location**: Austin, Texas
 **Education**: Master of Science in Information Systems (Data Science Major) from Northeastern University, Boston
 
 ### :fire: My Stats 
