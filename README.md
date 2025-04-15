@@ -16,7 +16,12 @@
 
 ### :woman_technologist: Intro
 
-I am a Master of Science in Information Systems student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston. I am currently doing my co-op at Universal Music Group as a Data Engineer. I use Python, SQL(Big Query), Google Cloud Platform, Airflow, Kubernetes, Docker, Confluence and Jira on a day-to-day basis at work. 
+
+I’m Sivaranjani, an AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Dell and a passionate data professional with expertise in both Data Engineering and Data Science. I have a strong foundation in designing and building data pipelines, exploring and analyzing complex datasets, and developing AI-driven solutions.  
+
+Currently: AI Engineer at Dell
+
+Education: Master of Science in Information Systems (Data Science Major) from Northeastern University, Boston
 
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
@@ -27,17 +32,11 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 ### About Me
 
-👩‍ Hello! I'm Sivaranjani, an enthusiastic data professional at the intersection of Data Engineering and Data Science. Here's a glimpse into what defines me:
+👩‍ I'm passionate about exploring the intersection of Data Engineering and AI:
 
-- 🔧 As a Data Engineer, I design and build robust data pipelines, ensuring efficient data ingestion, storage, and processing.
-- 📊 On the Data Science side, I love exploring complex datasets, deriving meaningful insights, and developing predictive models.
-- 🌐 Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and data-driven decision making.
-- 🚀 With a passion for innovation, I constantly seek ways to optimize processes, enhance data quality, and drive actionable results.
-- 🤝 Collaborating with cross-functional teams, I leverage my technical expertise to deliver end-to-end data solutions.
-- 📈 Data visualization is my creative outlet, where I transform raw data into compelling visual narratives that empower stakeholders.
-- 🌱 Lifelong learning is my mantra, as I stay up-to-date with the latest advancements in data technologies and industry best practice  including building projects with LLMs.
-- 🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.
-- ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
+Data Engineering: Designing and building scalable, efficient data pipelines that enable real-time data processing and robust storage solutions.
+Data Science: Applying machine learning models, AI algorithms, and predictive analytics to extract insights and make data-driven decisions.
+AI: At Dell, I work on cutting-edge AI projects, focusing on developing intelligent systems to improve business operations.
 
 ### :scroll: Certifications
 
@@ -54,11 +53,11 @@ I am a Master of Science in Information Systems student <img src="https://media.
   - Credential ID: E-Q07O20
 
 ### 🎓 Education
-- Northeastern University (GPA: 3.81)
+- Northeastern University (GPA: 3.87)
   - Boston, MA
   - Master of Science in Information Systems
-  - Sep 2022 - Expected May 2024
-  - Courses: Big Data Architecture and Intelligence Analytics, Application Engineering Development, Data Science Engineering, Database Management and Database Design, Adavnces in Data Science and Architecture. High Parallel               Machine Learning 
+  - Sep 2022 - June 2024
+  - Courses: Big Data Architecture and Intelligence Analytics, Application Engineering Development, Data Science Engineering, Database Management and Database Design, Adavnces in Data Science and Architecture, Applied                     Machine Learning in Fintech, Generative AI with LLM in Data Engineering, DevOps.
 
 - Anna University (CGPA - 9.03)
   - Chennai, India
@@ -89,7 +88,7 @@ I am a Master of Science in Information Systems student <img src="https://media.
 
 1. [AIssue Flow](https://github.com/SivaranjaniSuresh/Final-Project-Playground): This project focuses on helping companies manage their projects on GitHub more effectively. It utilizes the GitHub API for scraping issue-related data, stores it in a database, and applies advanced NLP and vector similarity algorithms for improved issue search and summarization. The goal is to facilitate faster issue resolution and enhance overall project management.
 
-Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
+Technologies used: Streamlit, GitHub, FastAPI, OpenAI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
 
 :movie_camera: Demo Video
 <p align="center">
