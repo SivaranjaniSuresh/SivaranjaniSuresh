@@ -17,11 +17,11 @@
 ### :woman_technologist: Intro
 
 
-I’m Sivaranjani, an AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Dell and a passionate data professional with expertise in both Data Engineering and Data Science. I have a strong foundation in designing and building data pipelines, exploring and analyzing complex datasets, and developing AI-driven solutions.  
+I’m Sivaranjani, an AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Dell and a passionate data professional with expertise in both AI and Data Science. I have a strong foundation in designing and building data pipelines, exploring and analyzing complex datasets, and developing AI-driven solutions.  
 
-Currently: AI Engineer at Dell
+**Currently**: AI Engineer 2 at Dell
 
-Education: Master of Science in Information Systems (Data Science Major) from Northeastern University, Boston
+**Education**: Master of Science in Information Systems (Data Science Major) from Northeastern University, Boston
 
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SivaranjaniSuresh&theme=highcontrast)](https://git.io/streak-stats)
@@ -32,11 +32,11 @@ Education: Master of Science in Information Systems (Data Science Major) from No
 
 ### About Me
 
-👩‍ I'm passionate about exploring the intersection of Data Engineering and AI:
+👩‍ I'm passionate about exploring the intersection of **Data Science** and **AI**:
 
-Data Engineering: Designing and building scalable, efficient data pipelines that enable real-time data processing and robust storage solutions.
-Data Science: Applying machine learning models, AI algorithms, and predictive analytics to extract insights and make data-driven decisions.
-AI: At Dell, I work on cutting-edge AI projects, focusing on developing intelligent systems to improve business operations.
+- **Data Engineering**: Designing and building scalable, efficient data pipelines that enable real-time data processing and robust storage solutions.
+- **Data Science**: Applying machine learning models, AI algorithms, and predictive analytics to extract insights and make data-driven decisions.
+- **AI**: At **Dell** in the CSG AI DevSecOps team, I build secure AI applications and develop intelligent chatbots using a RAG-based approach. I work extensively with LLMs and AI agents to create solutions that enhance automation and decision-making while ensuring robust security standards.
 
 ### :scroll: Certifications
 
